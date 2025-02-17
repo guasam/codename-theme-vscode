@@ -282,7 +282,7 @@
     "list.inactiveSelectionForeground": "#a8b6c4",
     "list.hoverBackground": "#2b2d31bb",
     "list.hoverForeground": "#cdcdcd",
-    "list.errorForeground": "#da9090",
+    "list.errorForeground": "#e58a8a",
     "list.highlightForeground": "#699fc9",
 
     "pickerGroup.foreground": "#8ac0f6c4",
@@ -330,8 +330,8 @@
     "editorSuggestWidget.selectedIconForeground": "#bbbbbb",
     "editorSuggestWidget.selectedForeground": "#bbbbbb",
 
-    "gitDecoration.modifiedResourceForeground": "#ffbf67e0",
-    "gitDecoration.untrackedResourceForeground": "#63ececba",
+    "gitDecoration.modifiedResourceForeground": "#7cb363",
+    "gitDecoration.untrackedResourceForeground": "#49abab",
     "gitDecoration.addedResourceForeground": "#75bcf2ed",
     "gitDecoration.deletedResourceForeground": "#ff9797ed",
     "gitDecoration.conflictingResourceForeground": "#ff98c4ed",
