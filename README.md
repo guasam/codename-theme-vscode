@@ -2,9 +2,9 @@
 
 A sophisticated dark theme for Visual Studio Code with carefully selected colors that enhance code readability and reduce eye strain.
 
-<center>
+<p align="center">
 <img src="images/codename.png" width="128" height="128" alt="Codename" />
-</center>
+</p>
 
 <br />
 
