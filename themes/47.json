@@ -162,7 +162,7 @@
     },
     {
       "name": "Other Variables",
-      "scope": ["variable.other.constant"],
+      "scope": ["variable.other.constant", "support.type.property-name.json"],
 
       "settings": {
         "foreground": "#9dd1ec"
