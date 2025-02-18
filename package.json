@@ -1,7 +1,11 @@
 {
   "name": "codename",
-  "displayName": "codename",
+  "displayName": "Codename Theme",
   "description": "Codename theme for VS Code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guasam/codename-theme-vscode"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
