@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Codename Theme",
+        "label": "Codename",
         "uiTheme": "vs-dark",
         "path": "./themes/47.json"
       }
