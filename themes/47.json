@@ -215,7 +215,8 @@
     "editor.selectionBackground": "#334b656c",
     "editor.selectionHighlightBackground": "#35434f5b",
     "editor.inactiveSelectionBackground": "#334b656c",
-    "editor.lineHighlightBackground": "#2c2c2dad",
+    "editor.lineHighlightBackground": "#312929ad",
+    "editor.lineHighlightBorder": "#2e2e2e76",
     "editor.wordHighlightBackground": "#1c354d76",
     "editor.wordHighlightBorder": "#3c88a27f",
 
@@ -312,7 +313,7 @@
     "scrollbarSlider.hoverBackground": "#3e4851b3",
     "scrollbarSlider.activeBackground": "#4b5763bb",
 
-    "icon.foreground": "#d3d8deb3",
+    "icon.foreground": "#a5a5a5b3",
 
     "input.background": "#171717",
     "input.foreground": "#a6b5c2e6",
@@ -390,7 +391,7 @@
 
     "terminal.background": "#000",
 
-    "editorIndentGuide.activeBackground1": "#454545",
+    "editorIndentGuide.activeBackground1": "#976060c9",
     "editorIndentGuide.background1": "#2d2d2d",
 
     "panelTitle.inactiveForeground": "#e7e7e799",
