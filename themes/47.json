@@ -207,10 +207,10 @@
   ],
   "colors": {
     "foreground": "#cccccc",
-    "focusBorder": "#51687b70",
+    "focusBorder": "#91919139",
     "editorCursor.foreground": "#00bbffda",
 
-    "editor.background": "#171717",
+    "editor.background": "#151515",
     "editor.foreground": "#bbbbbb",
     "editor.selectionBackground": "#334b656c",
     "editor.selectionHighlightBackground": "#35434f5b",
@@ -238,15 +238,15 @@
     "activityBar.inactiveForeground": "#c7d4e56f",
     "activityBar.foreground": "#d0d7ddf5",
     "activityBar.activeFocusBorder": "#fe7ab2",
-    "activityBar.dropBorder": "#bb4476",
+    "activityBar.dropBorder": "#cf5555",
 
-    "activityBarBadge.background": "#bb4476",
+    "activityBarBadge.background": "#a23b3b",
     "activityBarBadge.foreground": "#ffffffdd",
 
-    "badge.background": "#bb4476",
+    "badge.background": "#a23b3b",
     "badge.foreground": "#ffffffdd",
 
-    "button.background": "#913a5f",
+    "button.background": "#a23b3b",
     "button.foreground": "#ffffffcf",
     "button.secondaryBackground": "#3e4a54",
     "button.secondaryForeground": "#ffffffda",
@@ -264,8 +264,8 @@
     "sideBar.dropBackground": "#272f3a",
 
     "sideBarTitle.foreground": "#bbbbbbd4",
-    "sideBarSectionHeader.background": "#2a2e32",
-    "sideBarSectionHeader.foreground": "#92a3b1",
+    "sideBarSectionHeader.background": "#2d2d2d",
+    "sideBarSectionHeader.foreground": "#919191",
     "sideBarSectionHeader.border": "#00000041",
 
     "titleBar.activeBackground": "#181818",
@@ -297,6 +297,12 @@
     "settings.dropdownBorder": "#262626",
     "settings.dropdownForeground": "#a6b5c2e6",
 
+    "scmGraph.historyItemRefColor": "#598942",
+    "scmGraph.historyItemRemoteRefColor": "#d56d95",
+    "scmGraph.historyItemBaseRefColor": "#4ec9b0",
+    "scmGraph.foreground1": "#ff8c69",
+    "scmGraph.foreground2": "#d56d95",
+
     "textLink.foreground": "#8ac0f6c4",
     "textLink.activeForeground": "#8ac0f6e7",
     "textPreformat.foreground": "#e08baee0",
@@ -312,8 +318,9 @@
     "input.foreground": "#a6b5c2e6",
     "input.placeholderForeground": "#a6b5c27a",
 
-    "statusBar.background": "#171717",
+    "statusBar.background": "#1b1b1b",
     "statusBar.foreground": "#cccccc",
+    "statusBar.border": "#131313",
     "statusBar.noFolderBackground": "#913a5f",
     "statusBar.debuggingBackground": "#a52f2f",
 
