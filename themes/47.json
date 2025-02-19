@@ -303,8 +303,8 @@
     "scmGraph.foreground1": "#ff8c69",
     "scmGraph.foreground2": "#d56d95",
 
-    "textLink.foreground": "#8ac0f6c4",
-    "textLink.activeForeground": "#8ac0f6e7",
+    "textLink.foreground": "#f6938ac4",
+    "textLink.activeForeground": "#da7a71c4",
     "textPreformat.foreground": "#e08baee0",
 
     "scrollbar.shadow": "#111111b2",
