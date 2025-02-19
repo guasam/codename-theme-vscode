@@ -274,7 +274,7 @@
     "titleBar.inactiveForeground": "#9D9D9D",
 
     "list.activeSelectionBackground": "#2a2626ea",
-    "list.activeSelectionForeground": "#d2baba",
+    "list.activeSelectionForeground": "#d2babae7",
     "list.focusOutline": "#83546700",
     "list.focusBackground": "#83546738",
     "list.inactiveSelectionBackground": "#2a2626ea",
