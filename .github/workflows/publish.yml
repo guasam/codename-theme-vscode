@@ -1,0 +1,27 @@
+name: Publish Theme
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Install VSCE
+        run: npm install -g @vscode/vsce
+
+      - name: Package Extension
+        run: vsce package
+
+      - name: Publish Extension
+        env:
+          VSCE_PAT: ${{ secrets.VSCE_PAT }}
+        run: vsce publish
