@@ -281,9 +281,9 @@
     "list.hoverBackground": "#2a2a2abb",
     "list.hoverForeground": "#cdcdcd",
     "list.errorForeground": "#e58a8a",
-    "list.highlightForeground": "#699fc9",
+    "list.highlightForeground": "#eb6767c4",
 
-    "pickerGroup.foreground": "#8ac0f6c4",
+    "pickerGroup.foreground": "#f68a8ac4",
 
     "settings.rowHoverBackground": "#222425cc",
     "settings.focusedRowBackground": "#222425",
@@ -319,8 +319,8 @@
     "statusBar.background": "#1b1b1b",
     "statusBar.foreground": "#cccccc",
     "statusBar.border": "#131313",
-    "statusBar.noFolderBackground": "#913a5f",
-    "statusBar.debuggingBackground": "#a52f2f",
+    "statusBar.noFolderBackground": "#452f2f",
+    "statusBar.debuggingBackground": "#843838",
 
     "editor.findMatchHighlightBackground": "#4a719392",
     "editorInlayHint.background": "#252525e1",
