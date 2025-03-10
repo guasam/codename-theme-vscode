@@ -114,7 +114,8 @@
         "support.constant.json",
         "entity.other.inherited-class",
         "entity.name.type",
-        "meta.type.parameters support.type.primitive"
+        "meta.type.parameters support.type.primitive",
+        "markup.heading.markdown"
       ],
       "settings": {
         "foreground": "#4EC9B0"
@@ -134,7 +135,8 @@
         "string variable.other.property",
         "variable.other.constant.property",
         "meta.object.member variable.other.property",
-        "variable.other.property"
+        "variable.other.property",
+        "meta.argument.shell"
       ],
       "settings": {
         "foreground": "#83b1d6"
@@ -202,6 +204,46 @@
       "scope": ["support.class.component"],
       "settings": {
         "foreground": "#569cd6"
+      }
+    },
+    {
+      "name": "Markdown Shell Comments",
+      "scope": ["punctuation.definition.comment.shell", "comment.line.number-sign.shell"],
+      "settings": {
+        "foreground": "#6b9955dc"
+      }
+    },
+    {
+      "name": "Markup Punctuation",
+      "scope": [
+        "punctuation.definition.tag",
+        "punctuation.definition.heading",
+        "punctuation.definition.bold",
+        "punctuation.definition.italic",
+        "punctuation.definition.list.begin",
+        "punctuation.definition.list.end",
+        "punctuation.definition.quote.begin",
+        "punctuation.definition.quote.end",
+        "punctuation.definition.link",
+        "punctuation.definition.metadata",
+        "punctuation.section.embedded"
+      ],
+      "settings": {
+        "foreground": "#808080"
+      }
+    },
+    {
+      "name": "Markup Bold",
+      "scope": ["markup.bold.markdown"],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup Italic",
+      "scope": ["markup.italic.markdown"],
+      "settings": {
+        "fontStyle": "italic"
       }
     }
   ],
@@ -281,7 +323,7 @@
     "list.hoverBackground": "#2a2a2abb",
     "list.hoverForeground": "#cdcdcd",
     "list.errorForeground": "#e58a8a",
-    "list.highlightForeground": "#eb6767c4",
+    "list.highlightForeground": "#de635d",
 
     "pickerGroup.foreground": "#f68a8ac4",
 
