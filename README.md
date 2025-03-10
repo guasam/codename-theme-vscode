@@ -8,7 +8,7 @@ A sophisticated dark theme for Visual Studio Code with carefully selected colors
 
 <br />
 
-![Theme Screenshot](images/preview.png)
+![Theme Screenshot](images/codename-preview.jpg)
 
 <br />
 
@@ -19,6 +19,7 @@ A sophisticated dark theme for Visual Studio Code with carefully selected colors
 - 🔍 High contrast for better readability
 - 🎯 Optimized for long coding sessions
 - ⚡ Distinct colors for different code elements
+
 
 <br />
 
@@ -33,9 +34,19 @@ A sophisticated dark theme for Visual Studio Code with carefully selected colors
 
 ## Supported Syntax Colours
 
-- Typescript / Javascript
+<br />
+
+<p align="center">
+<img src="images/tsx.png" alt="Codename" />
+</p>
+
+
+- Typescript
+- TSX / JSX
+- Javascript
 - C#
 - Swift
+- Markdown
 - HTML
 - CSS
 - JSON
