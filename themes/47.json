@@ -260,6 +260,11 @@
     "editor.lineHighlightBackground": "#222222ad",
     "editor.wordHighlightBackground": "#24242476",
 
+    "diffEditor.insertedTextBackground": "#0c441794",
+    "diffEditor.removedTextBackground": "#5d141491",
+    "diffEditor.removedLineBackground": "#5d141491",
+    "diffEditor.insertedLineBackground": "#0c441794",
+
     "tab.activeBackground": "#151515",
     "tab.activeForeground": "#bbbbbb",
     "tab.inactiveBackground": "#292929",
@@ -315,10 +320,10 @@
 
     "list.activeSelectionBackground": "#343434a9",
     "list.activeSelectionForeground": "#d0d0d0",
-    "list.focusOutline": "#83546700",
-    "list.focusBackground": "#83546738",
+    "list.focusOutline": "#c04a4a38",
+    "list.focusBackground": "#c04a4a38",
     "list.inactiveSelectionBackground": "#343434a9",
-    "list.inactiveFocusBackground": "#83546738",
+    "list.inactiveFocusBackground": "#c04a4a38",
     "list.inactiveSelectionForeground": "#d0d0d0",
     "list.hoverBackground": "#2a2a2abb",
     "list.hoverForeground": "#cdcdcd",
