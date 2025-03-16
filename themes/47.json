@@ -320,10 +320,8 @@
 
     "list.activeSelectionBackground": "#343434a9",
     "list.activeSelectionForeground": "#d0d0d0",
-    "list.focusOutline": "#c04a4a38",
-    "list.focusBackground": "#c04a4a38",
+    "list.focusOutline": "#383838a9",
     "list.inactiveSelectionBackground": "#343434a9",
-    "list.inactiveFocusBackground": "#c04a4a38",
     "list.inactiveSelectionForeground": "#d0d0d0",
     "list.hoverBackground": "#2a2a2abb",
     "list.hoverForeground": "#cdcdcd",
